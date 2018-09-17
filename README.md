@@ -1,9 +1,4 @@
-## muslim.finance
-
-- “I have $X, what should I do?”
-- “How should I handle my money/finances/debt?”
-
-### Keys to Financial Peace
+### :key: Keys to Financial Peace
 
 1. Decide a budget. Understand where your money is going. Too much focus goes to investing instead of budgeting/saving.
 2. Save 20% of your salary each month.
@@ -12,13 +7,13 @@
 5. Set goals for what you need (house, tuition)
 6. Invest. See our investment strategy. 
 
-### Keys to Investing
+### :key: Keys to Investing
 1. Decide your Islamic principles and stick with them.
 2. Keep it simple and to what you know.
 3. Long term rather than short term.
 
 ### Balancing Investments
-> Many focus only on the stock market when thinking about investing. Consider investing in other avenues such has real estate.
+Many focus only on the stock market when thinking about investing. Consider investing in other avenues such has real estate.
 
 *Stock Market*
 
@@ -26,9 +21,14 @@ The stock market is naturally volatile, purchase companies you believe in. Most 
 
 *Real Estate*
 
-Consider investing in real estate with your primary home and rental homes if you can afford. Real estate forces you to be long term and there are many tax benefits. When evaluating rental homes, prioritize cash flow with some appreciation rather than just appreciation. 
+Consider investing in real estate with a primary home and rental homes if you can afford. Real estate forces you to be long term and there are many tax benefits. When evaluating rental homes, prioritize cash flow with some appreciation rather than just appreciation. 
 
 ### What should I invest in the stock market?
+> Investing should be more like watching paint dry or watching grass grow. If you want excitement, take $800 and go to Las Vegas.
+
+- QQQ - Top 100 Nasdaq index of stocks. Nasdaq consists mainly of the top tech companies such as Amazon, Apple, Google, etc). 
+- AMANX - Amana Income. Amana offers halal mutual funds. Amana Income invests in more stable companies. 
+- AMAGX - Amana Growth. Amana Growth invests more aggressively primarily in tech companies. 
 
 
 *Should I buy individual stocks?*

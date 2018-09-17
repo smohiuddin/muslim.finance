@@ -1,1 +1,6 @@
 theme: jekyll-theme-cayman
+github: 
+  project_tagline: “I have $X, what should I do?”
+  is_project_page: false
+plugins:
+  - jemoji
