@@ -10,15 +10,16 @@
 ### :key: How to Save Subconsciously
 1. Create a monthly budget (rent, car payment, etc) and add a buffer for miscellaneous spending. 
 2. Create a secondary checking account (won’t collect interest and no restrictions on transfers)
-3. Split your direct deposit paycheck with the budget going to the main account and the rest in the other. 
-4. Pay all expenses from your main account and forget about the other account. 
+3. Split your direct deposit paycheck. Budget goes to the main account and the rest in the other. 
+4. Pay all expenses from your main account and forget about the other one. 
 5. Have a big expense or emergency? Borrow from your other account.  
 
 ex. Salary $70K, paycheck after taxes and 401k: $4000
-* Main account: $3000
-* Secondary: $1000
 
-*Without much tracking, you’ll realize how well your meeting your budget goal.*
+* :arrow_lower_right: Main account: $3000
+* :arrow_lower_right: Secondary: $1000
+
+Without much tracking, you’ll realize how well your meeting your budget goal.
 
 ### :key: Keys to Investing
 1. Decide your Islamic principles and stick with them.
