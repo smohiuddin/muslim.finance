@@ -19,8 +19,6 @@ ex. Salary $70K, paycheck after taxes and 401k: $4000
 * :arrow_lower_right: Main account: $3000
 * :arrow_lower_right: Secondary: $1000
 
-Without much tracking, you’ll realize how well your meeting your budget goal.
-
 ### :key: Keys to Investing
 1. Decide your Islamic principles and stick with them.
 2. Keep it simple and to what you know.
