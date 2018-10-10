@@ -52,7 +52,7 @@ There are two types of 401k: Traditional (pre-tax contributions) and Roth (post-
 <br><br>
 If your employer offers both, consider splitting contributions to both. 
 <br><br>
-You can also individually open a Roth IRA. However there are heavy limitations in terms of contribution amounts and how much you earn ($199K married, $135K single adjusted gross income).
+You can also individually open a Roth IRA but there are heavy limitations in terms of contribution amounts and how much you earn ($199K married, $135K single adjusted gross income).
 </details>
 
 ### Buying a home
