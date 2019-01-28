@@ -1,10 +1,33 @@
+
+
+<!-- Begin Mailchimp Signup Form -->
+<link href="//cdn-images.mailchimp.com/embedcode/horizontal-slim-10_7.css" rel="stylesheet" type="text/css">
+<style type="text/css">
+	#mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; width:100%;}
+	/* Add your own Mailchimp form style overrides in your site stylesheet or in this style block.
+	   We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
+</style>
+<div id="mc_embed_signup">
+<form action="https://finance.us20.list-manage.com/subscribe/post?u=f25d3a21b95ed7e2861d132d5&amp;id=f0d087d739" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+    <div id="mc_embed_signup_scroll">
+	<label for="mce-EMAIL">Subscribe to learn more!</label>
+	<input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="email address" required>
+    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+    <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_f25d3a21b95ed7e2861d132d5_f0d087d739" tabindex="-1" value=""></div>
+    <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
+    </div>
+</form>
+</div>
+
+<!--End mc_embed_signup-->
+
 ### :key: Keys to Financial Peace
 
 1. Decide a budget. Understand where your money is going. Too much focus goes to investing instead of budgeting/saving.
 2. Save 20% of your salary each month.
 3. Prioritize eliminating debt vs investing. 
 4. Contribute to 401K. Most employers match and there are tax advantages. 
-5. Set goals for what you need (house, tuition)
+5. Set goals for what you need (house, tuition).
 6. Invest. See our investment strategy. 
 
 ### :key: Keys to Investing
@@ -18,7 +41,7 @@
 
 - [QQQ](https://www.morningstar.com/etfs/xnas/qqq/quote.html){:target="_blank"} - Top 100 Nasdaq index of stocks. Nasdaq consists mainly of the top tech companies such as Amazon, Apple, Google, etc). 
 - [AMANX](https://www.saturna.com/amana/income-fund#/overview){:target="_blank"} - Amana Income is a halal mutual fund that invests in stable, dividend-paying companies. 
-- [AMAGX](https://www.saturna.com/amana/growth-fund#/overview){:target="_blank"} - Amana Growth invests more aggressively primarily in tech companies.
+- [AMAGX](https://www.saturna.com/amana/growth-fund#/overview){:target="_blank"} - Amana Growth invests more aggressively, primarily in tech companies.
 
 
 *Should I buy individual stocks?*
@@ -46,8 +69,13 @@ If your employer offers both, consider splitting contributions to both. Note the
 - [Guidance](https://www.guidanceresidential.com){:target="_blank"}
 - [Ameen Housing](http://www.ameenhousing.com){:target="_blank"}
 
+### Wills and Estate Planning
+- [MyWassiyah](https://www.mywassiyah.com){:target="_blank"}
+
 ---
 Note: Any investment is speculative. 
 <br>
 [Feedback?](mailto:info@muslim.finance) Built by [Safeer](https://www.linkedin.com/in/safeermohiuddin){:target="_blank"}
+<br>
+<a href="https://twitter.com/SafeerInvests?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @SafeerInvests</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
