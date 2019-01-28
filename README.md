@@ -30,6 +30,18 @@
 5. Set goals for what you need (house, tuition).
 6. Invest. See our investment strategy. 
 
+### :key: How to Save Subconsciously
+1. Create a monthly budget (rent, car payment, etc) and add a buffer for miscellaneous spending. 
+2. Create a secondary checking account (won’t collect interest and no restrictions on transfers)
+3. Split your direct deposit paycheck. Budget goes to the main account and the rest in the other. 
+4. Pay all expenses from your main account and forget about the other one. 
+5. Have a big expense or emergency? Borrow from your other account.  
+
+ex. Salary $70K, paycheck after taxes and 401k: $4000
+
+* :arrow_lower_right: Main account: $3000
+* :arrow_lower_right: Secondary: $1000
+
 ### :key: Keys to Investing
 1. Decide your Islamic principles and stick with them.
 2. Keep it simple and to what you know.
@@ -61,7 +73,9 @@ Make sure to contribute the minimum needed for your employer to match (it’s fr
 <br>
 There are two types of 401k: Traditional (pre-tax contributions) and Roth (post-tax contributions). Contributions to a traditional 401k can be deducted from your gross income in that year. However, you will need pay income tax when withdrawing at retirement. With a Roth 401K, tax is deducted upfront since you are contributing post-tax dollars. Roth 401k is great for young professionals as you will probably be earning more and in a higher tax bracket.
 <br><br>
-If your employer offers both, consider splitting contributions to both. Note there are heavy limitations on Roth 401k in terms of contribution amounts and how much you earn ($199K married, $135K single adjusted gross income).
+If your employer offers both, consider splitting contributions to both. 
+<br><br>
+You can also individually open a Roth IRA but there are heavy limitations in terms of contribution amounts and how much you earn ($199K married, $135K single adjusted gross income).
 </details>
 
 ### Buying a home
