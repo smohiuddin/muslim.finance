@@ -88,6 +88,9 @@ You can also individually open a Roth IRA but there are heavy limitations in ter
 ### Wills and Estate Planning
 - [MyWassiyah](https://www.mywassiyah.com){:target="_blank"}
 
+### Student Loans
+- [A Continuous Charity](http://acceducate.org){:target="_blank"}
+
 ---
 Note: Any investment is speculative. 
 <br>
