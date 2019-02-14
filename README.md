@@ -56,6 +56,7 @@ ex. Salary $70K, paycheck after taxes and 401k: $4000
 - [QQQ](https://www.morningstar.com/etfs/xnas/qqq/quote.html){:target="_blank"} - Top 100 Nasdaq index of stocks. Nasdaq consists mainly of the top tech companies such as Amazon, Apple, Google, etc). 
 - [AMANX](https://www.saturna.com/amana/income-fund#/overview){:target="_blank"} - Amana Income is a halal mutual fund that invests in stable, dividend-paying companies. 
 - [AMAGX](https://www.saturna.com/amana/growth-fund#/overview){:target="_blank"} - Amana Growth invests more aggressively, primarily in tech companies.
+- [Zoya](https://investroo.com/){:target="_blank"} - Find halal stocks
 
 
 *Should I buy individual stocks?*
