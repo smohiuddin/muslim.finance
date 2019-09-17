@@ -54,8 +54,8 @@ ex. Salary $70K, paycheck after taxes and 401k: $4000
 ### What should I invest in the stock market?
 
 - [QQQ](https://www.morningstar.com/etfs/xnas/qqq/quote.html){:target="_blank"} - Top 100 Nasdaq index of stocks. Nasdaq consists mainly of the top tech companies such as Amazon, Apple, Google, etc). 
-  - Sharia compliant version (based on Zoya): [Fully compliant](https://trader.motif.com/motifs/sharia-compliant-qqq---large-ca-L1otutzd#/overview), [Mixed compliance](https://trader.motif.com/motifs/sharia-mixed-compliance-qqq---l-T1clsrwe)
-  - Motif has a limitation of 30 stocks per portfolio. Depsite the limitation, we are able to cover the top 70% of QQQ. 
+  - Sharia compliant version (based on Zoya): [Fully compliant](https://trader.motif.com/motifs/sharia-compliant-qqq---large-ca-L1otutzd), [Mixed compliance](https://trader.motif.com/motifs/sharia-mixed-compliance-qqq---l-T1clsrwe)
+  - Motif has a limitation of 30 stocks per portfolio. We are able to cover 70% of QQQ's top weighted holdings. 
 - [AMANX](https://www.saturna.com/amana/income-fund#/overview){:target="_blank"} - Amana Income is a halal mutual fund that invests in stable, dividend-paying companies. 
 - [AMAGX](https://www.saturna.com/amana/growth-fund#/overview){:target="_blank"} - Amana Growth invests more aggressively, primarily in tech companies.
 - [Zoya](https://investroo.com/){:target="_blank"} - Find halal stocks
@@ -71,7 +71,7 @@ Many focus only on the stock market when thinking about investing. Consider inve
 ### 401K
 A 401K is an account provided by employers for retirement that has a number of benefits and tax advantages. 401k’s are directly funded from your paycheck and many employers match contributions up to a certain threshold (typically 2-5%). Many 401k’s only allow you to choose from a handful of Vanguard funds. If this is the case, pick the most tech-heavy and equity-based fund.  This will be the most sharia-compliant and long-term performing. If you can choose any stocks, see our recommended basket of stocks. 
 
-Make sure to contribute the minimum needed for your employer to match (it’s free money!). Note there is a contribution limit of $18,500 per year for 2018 (there are exceptions if you are over 50). 
+Make sure to contribute the minimum needed for your employer to match (it’s free money!). Note there is a contribution limit of $19,000 per year for 2019 (there are exceptions if you are over 50). 
 
 <details>
 <summary>401K: Traditional vs Roth</summary>
