@@ -54,6 +54,8 @@ ex. Salary $70K, paycheck after taxes and 401k: $4000
 ### What should I invest in the stock market?
 
 - [QQQ](https://www.morningstar.com/etfs/xnas/qqq/quote.html){:target="_blank"} - Top 100 Nasdaq index of stocks. Nasdaq consists mainly of the top tech companies such as Amazon, Apple, Google, etc). 
+  - Sharia compliant version (based on Zoya): [Fully compliant](https://trader.motif.com/motifs/sharia-compliant-qqq---large-ca-L1otutzd#/overview), [Mixed compliance](https://trader.motif.com/motifs/sharia-mixed-compliance-qqq---l-T1clsrwe)
+  - Motif has a limitation of 30 stocks per portfolio. Depsite the limitation, we are able to cover the top 70% of QQQ. 
 - [AMANX](https://www.saturna.com/amana/income-fund#/overview){:target="_blank"} - Amana Income is a halal mutual fund that invests in stable, dividend-paying companies. 
 - [AMAGX](https://www.saturna.com/amana/growth-fund#/overview){:target="_blank"} - Amana Growth invests more aggressively, primarily in tech companies.
 - [Zoya](https://investroo.com/){:target="_blank"} - Find halal stocks
