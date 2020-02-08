@@ -55,9 +55,9 @@ ex. Salary $70K, paycheck after taxes and 401k: $4000
 
 ### What should I invest in the stock market?
 
-- [QQQ](https://www.morningstar.com/etfs/xnas/qqq/quote.html){:target="_blank"} - Top 100 Nasdaq index of stocks. Nasdaq consists mainly of the top tech companies such as Amazon, Apple, Google, etc). 
+- [QQQ](https://www.morningstar.com/etfs/xnas/qqq/quote.html){:target="_blank"} - Top 100 Nasdaq weighted index of stocks. Nasdaq consists mainly of the top tech companies such as Amazon, Apple, Google, etc). 
   - QQQ has mixed compliance - 33% full, 50% mixed and 17% noncompliant by weight. (based on Zoya)
-  - We have created a basket of stocks to emulate QQQ with a compliance filter on the Motif and M1 platforms. 
+  - We have created a basket of stocks to emulate QQQ with a compliance filter. 
   - Motif: [Fully compliant](https://trader.motif.com/motifs/sharia-compliant-qqq---large-ca-L1otutzd), [Mixed compliant](https://trader.motif.com/motifs/sharia-mixed-compliance-qqq---l-T1clsrwe). M1: [Fully compliant](https://m1.finance/imOX015yG)
 - [AMANX](https://www.saturna.com/amana/income-fund#/overview){:target="_blank"} - Amana Income is a halal mutual fund that invests in stable, dividend-paying companies. 
 - [AMAGX](https://www.saturna.com/amana/growth-fund#/overview){:target="_blank"} - Amana Growth invests more aggressively, primarily in tech companies.
@@ -75,6 +75,13 @@ Many focus only on the stock market when thinking about investing. Consider inve
 A 401K is an account provided by employers for retirement that has a number of benefits and tax advantages. 401k’s are directly funded from your paycheck and many employers match contributions up to a certain threshold (typically 2-5%). Many 401k’s only allow you to choose from a handful of Vanguard funds. If this is the case, pick the most tech-heavy and equity-based fund.  This will be the most sharia-compliant and long-term performing. If you can choose any stocks, see our recommended basket of stocks. 
 
 Make sure to contribute the minimum needed for your employer to match (it’s free money!). Note there is a contribution limit of $19,500 per year for 2020 (there are exceptions if you are over 50). 
+
+<details>
+<summary>Is your 401K with Fidelity?</summary>
+<br>
+Fidelity 401K's are more flexibile in allowing you to choose your investments depending on your employer's plan. Fidelity allows you to create a BrokerageLink account associated with your 401K allowing you to invest in mutual funds and stocks beyond the basic target funds typically offered.  
+<br>
+</details>
 
 <details>
 <summary>401K: Traditional vs Roth</summary>
