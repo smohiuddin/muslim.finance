@@ -71,7 +71,7 @@ Many focus only on the stock market when thinking about investing. Consider inve
 ### 401K
 A 401K is an account provided by employers for retirement that has a number of benefits and tax advantages. 401k’s are directly funded from your paycheck and many employers match contributions up to a certain threshold (typically 2-5%). Many 401k’s only allow you to choose from a handful of Vanguard funds. If this is the case, pick the most tech-heavy and equity-based fund.  This will be the most sharia-compliant and long-term performing. If you can choose any stocks, see our recommended basket of stocks. 
 
-Make sure to contribute the minimum needed for your employer to match (it’s free money!). Note there is a contribution limit of $19,000 per year for 2019 (there are exceptions if you are over 50). 
+Make sure to contribute the minimum needed for your employer to match (it’s free money!). Note there is a contribution limit of $19,500 per year for 2020 (there are exceptions if you are over 50). 
 
 <details>
 <summary>401K: Traditional vs Roth</summary>
