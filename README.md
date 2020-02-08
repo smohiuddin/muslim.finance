@@ -49,6 +49,8 @@ ex. Salary $70K, paycheck after taxes and 401k: $4000
 2. Keep it simple and to what you know.
 3. Long term rather than short term.
 
+> For investors as a whole, returns decrease as motion increases. - Warren Buffett
+
 > Investing should be more like watching paint dry or watching grass grow. If you want excitement, take $800 and go to Las Vegas. - Paul Samuelson
 
 ### What should I invest in the stock market?
