@@ -49,7 +49,8 @@ ex. Salary $70K, paycheck after taxes and 401k: $4000
 2. Keep it simple and to what you know.
 3. Long term rather than short term.
 
-> Few things matter more in investing than understanding your own time horizon and not being persuaded by the price actions caused by people with different time horizons. - Morgan Housel, [The Reasonable Formation of Unreasonable Things](https://www.collaborativefund.com/uploads/Collaborative%20Fund%20Bubbles.pdf){:target="_blank"} (a must short read)
+> Few things matter more in investing than understanding your own time horizon and not being persuaded by the price actions caused by people with different time horizons.<br/>
+-Morgan Housel, [The Reasonable Formation of Unreasonable Things](https://www.collaborativefund.com/uploads/Collaborative%20Fund%20Bubbles.pdf){:target="_blank"} (a must short read)
 
 ### What should I invest in the stock market?
 
