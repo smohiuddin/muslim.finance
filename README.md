@@ -92,13 +92,19 @@ If your employer offers both, consider splitting contributions to both.
 You can also individually open a Roth IRA but there are heavy limitations in terms of contribution amounts and how much you earn ($199K married, $135K single adjusted gross income).
 </details>
 
+### Education Savings Account (ESA)
+ESA accounts allow you to save for your children's education expenses. Once put in an ESA, money can grow tax-free - no taxes are paid on the gains. Contributions are limited to $2000 per year per child. You are only eligible for an ESA if your AGI (gross income after deductions) is less than: $95K for single, $190K for joint filers.
+
+We recommend opening an account with [Saturna](https://www.saturna.com/individual/esa/education-savings-accounts){:target="_blank"} and investing 50/50 in Amana Income (AMANX) and Amana Growth (AMAGX). We highly recommend setting up automatic monthly contributions once you setup the account. 
+
+
 ### Buying a home
 - [UIF](http://www.myuif.com){:target="_blank"}
 - [Guidance](https://www.guidanceresidential.com){:target="_blank"}
 - [Ameen Housing](http://www.ameenhousing.com){:target="_blank"}
 
 ### Wills and Estate Planning
-- [MyWassiyah](https://www.mywassiyah.com){:target="_blank"}
+- [Islamic Inheritance](https://islamicinheritance.com/free-templates-vault/){:target="_blank"}
 
 ### Student Loans
 - [A Continuous Charity](http://acceducate.org){:target="_blank"}
