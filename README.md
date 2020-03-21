@@ -67,6 +67,10 @@ ex. Salary $70K, paycheck after taxes and 401k: $4000
 
 Index and mutual funds have historically performed better than a selected basket of stocks. It is highly recommended to invest most of your money in these types of funds.
 
+*When should I invest?*
+
+There will always be ups and downs - nobody can time the market. We recommend setting up automatic monthly contributions for majority of your investing budget. 
+
 ### Balancing Investments
 Many focus only on the stock market when thinking about investing. Consider investing in other avenues such has real estate. Real estate forces you to be long term and there are many tax benefits. When evaluating rental homes, prioritize cash flow with some appreciation rather than just appreciation. 
 
