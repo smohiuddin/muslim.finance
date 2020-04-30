@@ -56,7 +56,7 @@ ex. Salary $70K, paycheck after taxes and 401k: $4000
 
 - [QQQ](https://www.morningstar.com/etfs/xnas/qqq/quote.html){:target="_blank"} - Top 100 Nasdaq weighted index of stocks. Nasdaq consists mainly of the top tech companies such as Amazon, Apple, Google, etc). 
   - QQQ has mixed compliance - 33% full, 50% mixed and 17% noncompliant by weight. (based on Zoya)
-  - We have created a basket of stocks to emulate QQQ with a compliance filter. [Fully compliant on M1](https://m1.finance/imOX015yG)
+  - We have created a basket of stocks to emulate QQQ with a compliance filter. [Fully compliant basket on M1](https://m1.finance/imOX015yG)
 - [AMANX](https://www.saturna.com/amana/income-fund#/overview){:target="_blank"} - Amana Income is a halal mutual fund that invests in stable, dividend-paying companies. 
 - [AMAGX](https://www.saturna.com/amana/growth-fund#/overview){:target="_blank"} - Amana Growth invests more aggressively, primarily in tech companies.
 - [Zoya](https://investroo.com/){:target="_blank"} - Find halal stocks
