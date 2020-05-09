@@ -65,7 +65,7 @@ Additionally, I recommend:
 - [AMANX](https://www.saturna.com/amana/income-fund#/overview){:target="_blank"} - Amana Income is a halal mutual fund that invests in stable, dividend-paying companies. 
 - [AMAGX](https://www.saturna.com/amana/growth-fund#/overview){:target="_blank"} - Amana Growth invests more aggressively, primarily in tech companies.
 
-Amana funds provide a great set of stable mutual funds. If you have a Fidelity 401K, see the 401K section on how you can invest in these there.
+If you have a Fidelity 401K, see the 401K section on how you can invest in these there.
 
 [Zoya](https://investroo.com/){:target="_blank"} - Find halal stocks
 
@@ -114,8 +114,12 @@ We recommend opening an account with [Saturna](https://www.saturna.com/individua
 - [Guidance](https://www.guidanceresidential.com){:target="_blank"}
 - [Ameen Housing](http://www.ameenhousing.com){:target="_blank"}
 
+### Zakat
+- [Zakat Calculator](https://zaytuna.edu/ramadan-2020/zakat){:target="_blank"}
+
 ### Wills and Estate Planning
 - [Islamic Inheritance](https://islamicinheritance.com/free-templates-vault/){:target="_blank"}
+- [MyWassiyah](https://www.mywassiyah.com/){:target="_blank"}
 
 ### Student Loans
 - [A Continuous Charity](http://acceducate.org){:target="_blank"}
