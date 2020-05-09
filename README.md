@@ -54,12 +54,20 @@ ex. Salary $70K, paycheck after taxes and 401k: $4000
 
 ### What should I invest in the stock market?
 
-- [QQQ](https://www.morningstar.com/etfs/xnas/qqq/quote.html){:target="_blank"} - Top 100 Nasdaq weighted index of stocks. Nasdaq consists mainly of the top tech companies such as Amazon, Apple, Google, etc). 
-  - QQQ has mixed compliance - 33% full, 50% mixed and 17% noncompliant by weight. (based on Zoya)
-  - We have created a basket of stocks to emulate QQQ with a compliance filter. [Fully compliant basket on M1](https://m1.finance/imOX015yG)
+> If you want to see what I invest in, I’ve made my [portfolio public](https://m1.finance/vrtVZbKPcH27){:target="_blank"}.<br>
+You can invest alongside with me. If you end up doing so, please subscribe to my [investing newsletter](https://safeer.substack.com/subscribe){:target="_blank"} so you get the latest updates.
+
+My basket of stocks contains: 
+- [QQQ](https://www.morningstar.com/etfs/xnas/qqq/quote.html){:target="_blank"} - Top 100 Nasdaq weighted index of stocks. Nasdaq consists mainly of the top tech companies such as Amazon, Apple, Google, etc). I have added the top 75% of QQQ and filtered out the noncompliant stocks (based on Zoya)
+- A few individual stocks that I feel strongly about which make the remaining 25%
+
+Additionally, I recommend:
 - [AMANX](https://www.saturna.com/amana/income-fund#/overview){:target="_blank"} - Amana Income is a halal mutual fund that invests in stable, dividend-paying companies. 
 - [AMAGX](https://www.saturna.com/amana/growth-fund#/overview){:target="_blank"} - Amana Growth invests more aggressively, primarily in tech companies.
-- [Zoya](https://investroo.com/){:target="_blank"} - Find halal stocks
+
+Amana funds provide a great set of stable mutual funds. If you have a Fidelity 401K, see the 401K section on how you can invest in these there.
+
+[Zoya](https://investroo.com/){:target="_blank"} - Find halal stocks
 
 
 *Should I buy individual stocks?*
