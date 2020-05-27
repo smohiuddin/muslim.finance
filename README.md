@@ -29,7 +29,7 @@ ex. Salary $70K, paycheck after taxes and 401k: $4000
 
 ### What should I invest in the stock market?
 
-> If you want to see what I invest in, I’ve made my [portfolio public](https://m1.finance/G938f2iG-_on){:target="_blank"}.<br>
+> If you want to see what I invest in, I’ve made my [portfolio public](https://m1.finance/5HfjWvK8u4sZ){:target="_blank"}.<br>
 You can invest alongside with me. If you end up doing so, please subscribe to my [investing newsletter](https://safeer.substack.com/subscribe){:target="_blank"} so you get the latest updates.
 
 My basket of stocks contains: 
