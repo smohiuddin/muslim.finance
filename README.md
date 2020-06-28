@@ -54,7 +54,7 @@ Index and mutual funds have historically performed better than a selected basket
 There will always be ups and downs - nobody can time the market. We recommend setting up automatic monthly contributions for majority of your investing budget. 
 
 ### Balancing Investments
-Many focus only on the stock market when thinking about investing. Consider investing in other avenues such has real estate. Real estate forces you to be long term and there are many tax benefits. When evaluating rental homes, prioritize cash flow with some appreciation rather than just appreciation. 
+Many focus only on the stock market when thinking about investing. Consider investing in other avenues such as real estate. Real estate forces you to be long term and there are many tax benefits. When evaluating rental homes, prioritize cash flow with some appreciation rather than just appreciation. 
 
 ### 401K
 A 401K is an account provided by employers for retirement that has a number of benefits and tax advantages. 401k’s are directly funded from your paycheck and many employers match contributions up to a certain threshold (typically 2-5%). Many 401k’s only allow you to choose from a handful of Vanguard funds. If this is the case, pick the most tech-heavy and equity-based fund.  This will be the most sharia-compliant and long-term performing. If you can choose any stocks, see our recommended basket of stocks. 
