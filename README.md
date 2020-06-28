@@ -99,6 +99,10 @@ We recommend opening an account with [Saturna](https://www.saturna.com/individua
 ### Student Loans
 - [A Continuous Charity](http://acceducate.org){:target="_blank"}
 
+### More questions or need advice?
+Every Sun and Mon at 8 AM PST, I make myself available to offer general advice on personal finance. Please email [me](mailto:info@muslim.finance) to reserve your spot. Note: I am not a financial advisor. Seek professional consultation as needed. 
+
+
 ---
 Note: Any investment is speculative. 
 <br>
