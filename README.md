@@ -100,13 +100,13 @@ We recommend opening an account with [Saturna](https://www.saturna.com/individua
 - [A Continuous Charity](http://acceducate.org){:target="_blank"}
 
 ### More questions or need advice?
-Every Sun and Mon at 8 AM PST, I make myself available to offer general advice on personal finance. Please email [me](mailto:info@muslim.finance) to reserve your spot. Note: I am not a financial advisor. Seek professional consultation as needed. 
+Please email [me](mailto:info@muslim.finance). Note: I am not a financial advisor. Seek professional consultation as needed. 
 
 
 ---
 Note: Any investment is speculative. 
 <br>
-[Feedback?](mailto:info@muslim.finance) Built by [Safeer](https://www.linkedin.com/in/safeermohiuddin){:target="_blank"}
+[Feedback?](mailto:info@muslim.finance) Built by [Safeer](https://www.linkedin.com/in/safeerm){:target="_blank"}
 <br>
 <a href="https://twitter.com/SafeerInvests?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @SafeerInvests</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
