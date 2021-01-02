@@ -36,8 +36,10 @@ If you want to see what I invest in, I’ve made my [portfolio public](https://p
 You can invest alongside with me. If you end up doing so, please subscribe to my [investing newsletter](https://safeer.substack.com/subscribe){:target="_blank"} so you get the latest updates.
 
 My basket of stocks contains: 
-- [QQQ](https://www.morningstar.com/etfs/xnas/qqq/quote.html){:target="_blank"} - Top 100 Nasdaq weighted index of stocks. Nasdaq consists mainly of the top tech companies such as Amazon, Apple, Google, etc). I have added the top 75% of QQQ and filtered out the noncompliant stocks (based on Zoya)
-- A few handpicked stocks across the technology sector that make up the remaining 25%.
+- [QQQ](https://www.morningstar.com/etfs/xnas/qqq/quote.html){:target="_blank"} - Top 100 Nasdaq weighted index of stocks. Nasdaq consists mainly of the top tech companies such as Amazon, Apple, Google, etc). I have added the top 65% of QQQ and filtered out the noncompliant stocks (based on Zoya).
+- A few handpicked stocks across the technology sector that make up the remaining 35%.
+
+Technology stocks have and will continue to perform well in the next few decades. These companies are fast growing due to the digital landscape and have much better profit margins.
 
 Additionally, I recommend:
 - [AMANX](https://www.saturna.com/amana/income-fund#/overview){:target="_blank"} - Amana Income is a halal mutual fund that invests in stable, dividend-paying companies. 
@@ -78,11 +80,11 @@ There are two types of 401k: Traditional (pre-tax contributions) and Roth (post-
 <br><br>
 If your employer offers both, consider splitting contributions to both. 
 <br><br>
-You can also individually open a Roth IRA but there are heavy limitations in terms of contribution amounts and how much you earn ($199K married, $135K single adjusted gross income).
+You can also individually open a Roth IRA but there are heavy limitations in terms of contribution amounts and how much you earn ($208K married, $140K single adjusted gross income).
 </details>
 
 ### Education Savings Account (ESA)
-ESA accounts allow you to save for your children's education expenses. Once put in an ESA, money can grow tax-free - no taxes are paid on the gains. Contributions are limited to $2000 per year per child. You are only eligible for an ESA if your AGI (gross income after deductions) is less than: $95K for single, $190K for joint filers.
+ESA accounts allow you to save for your children's education expenses. Once put in an ESA, money can grow tax-free - no taxes are paid on the gains. Contributions are limited to $2000 per year per child. You are only eligible for an ESA if your AGI (gross income after deductions) is less than: $110K for single, $220K for joint filers.
 
 I recommend opening an account with [Saturna](https://www.saturna.com/individual/esa/education-savings-accounts){:target="_blank"} and investing 50/50 in Amana Income (AMANX) and Amana Growth (AMAGX). We highly recommend setting up automatic monthly contributions once you setup the account. 
 
@@ -112,6 +114,5 @@ Please email [me](mailto:info@muslim.finance). Note: I am not a financial adviso
 Note: Any investment is speculative. 
 <br>
 [Feedback?](mailto:info@muslim.finance) Built by [Safeer](https://www.linkedin.com/in/safeerm){:target="_blank"}
-<br>
-<a href="https://twitter.com/SafeerInvests?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @SafeerInvests</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
