@@ -27,9 +27,12 @@ ex. Salary $70K, paycheck after taxes and 401k: $4000
 > Few things matter more in investing than understanding your own time horizon and not being persuaded by the price actions caused by people with different time horizons.
 <br>- Morgan Housel, [The Reasonable Formation of Unreasonable Things](https://www.collaborativefund.com/uploads/Collaborative%20Fund%20Bubbles.pdf){:target="_blank"} (a must short read)
 
+### Understanding Money
+I recommend reading [The Psychology of Money](https://www.amazon.com/Psychology-Money-Timeless-lessons-happiness/dp/0857197681){:target="_blank"} by Morgan Housel. It is critical to understanding the role of your behavior towards money and investing. 
+
 ### What should I invest in the stock market?
 
-> If you want to see what I invest in, I’ve made my [portfolio public](https://m1.finance/5HfjWvK8u4sZ){:target="_blank"}.<br>
+If you want to see what I invest in, I’ve made my [portfolio public](https://portfolio.101.finance){:target="_blank"}.<br>
 You can invest alongside with me. If you end up doing so, please subscribe to my [investing newsletter](https://safeer.substack.com/subscribe){:target="_blank"} so you get the latest updates.
 
 My basket of stocks contains: 
@@ -51,7 +54,7 @@ Index and mutual funds have historically performed better than a selected basket
 
 *When should I invest?*
 
-There will always be ups and downs - nobody can time the market. We recommend setting up automatic monthly contributions for majority of your investing budget. 
+There will always be ups and downs - nobody can time the market. I recommend setting up automatic monthly contributions for majority of your investing budget. 
 
 ### Balancing Investments
 Many focus only on the stock market when thinking about investing. Consider investing in other avenues such as real estate. Real estate forces you to be long term and there are many tax benefits. When evaluating rental homes, prioritize cash flow with some appreciation rather than just appreciation. 
@@ -59,7 +62,7 @@ Many focus only on the stock market when thinking about investing. Consider inve
 ### 401K
 A 401K is an account provided by employers for retirement that has a number of benefits and tax advantages. 401k’s are directly funded from your paycheck and many employers match contributions up to a certain threshold (typically 2-5%). Many 401k’s only allow you to choose from a handful of Vanguard funds. If this is the case, pick the most tech-heavy and equity-based fund.  This will be the most sharia-compliant and long-term performing. If you can choose any stocks, see our recommended basket of stocks. 
 
-Make sure to contribute the minimum needed for your employer to match (it’s free money!). Note there is a contribution limit of $19,500 per year for 2020 (there are exceptions if you are over 50). 
+Make sure to contribute the minimum needed for your employer to match (it’s free money!). Note there is a contribution limit of $19,500 per year for 2021 (there are exceptions if you are over 50). 
 
 <details>
 <summary>Is your 401K with Fidelity?</summary>
@@ -81,7 +84,7 @@ You can also individually open a Roth IRA but there are heavy limitations in ter
 ### Education Savings Account (ESA)
 ESA accounts allow you to save for your children's education expenses. Once put in an ESA, money can grow tax-free - no taxes are paid on the gains. Contributions are limited to $2000 per year per child. You are only eligible for an ESA if your AGI (gross income after deductions) is less than: $95K for single, $190K for joint filers.
 
-We recommend opening an account with [Saturna](https://www.saturna.com/individual/esa/education-savings-accounts){:target="_blank"} and investing 50/50 in Amana Income (AMANX) and Amana Growth (AMAGX). We highly recommend setting up automatic monthly contributions once you setup the account. 
+I recommend opening an account with [Saturna](https://www.saturna.com/individual/esa/education-savings-accounts){:target="_blank"} and investing 50/50 in Amana Income (AMANX) and Amana Growth (AMAGX). We highly recommend setting up automatic monthly contributions once you setup the account. 
 
 
 ### Buying a home
@@ -89,7 +92,9 @@ We recommend opening an account with [Saturna](https://www.saturna.com/individua
 - [Guidance](https://www.guidanceresidential.com){:target="_blank"}
 - [Ameen Housing](http://www.ameenhousing.com){:target="_blank"}
 
-### Zakat
+### Charity and Zakat
+
+I recommend using [CharityVest](http://charityvest.org){:target="_blank"} to streamline your donations. CharityVest also makes it easy to donate stocks which allows you to take a deduction on the full market value and avoid capital gain taxes if you were to sell it. 
 - [Zakat Calculator](https://zaytuna.edu/ramadan-2020/zakat){:target="_blank"}
 
 ### Wills and Estate Planning
