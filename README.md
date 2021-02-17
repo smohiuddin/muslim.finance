@@ -101,7 +101,7 @@ I recommend opening an account with [Saturna](https://www.saturna.com/individual
 ### Charity and Zakat
 
 I recommend using [CharityVest](http://charityvest.org){:target="_blank"} to streamline your donations. CharityVest also makes it easy to donate stocks which allows you to take a deduction on the full market value and avoid capital gain taxes if you were to sell it. 
-- [Zakat Calculator](https://zaytuna.edu/ramadan-2020/zakat){:target="_blank"}
+- [Zakat Calculator](https://zakat.fyi){:target="_blank"}
 
 ### Wills and Estate Planning
 - [Islamic Inheritance](https://islamicinheritance.com/free-templates-vault/){:target="_blank"}
