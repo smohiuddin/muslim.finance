@@ -32,7 +32,7 @@ I recommend reading [The Psychology of Money](https://www.amazon.com/Psychology-
 
 ### What should I invest in the stock market?
 
-If you want to see what I invest in, I’ve made my [portfolio public](https://portfolio.101.finance){:target="_blank"}.<br>
+If you want to see what I invest in, I’ve made my [portfolio public](https://m1.finance/I5RG_nbK-6Sd){:target="_blank"}.<br>
 You can invest alongside with me. If you end up doing so, please subscribe to my [investing newsletter](https://safeer.substack.com/subscribe){:target="_blank"} so you get the latest updates.
 
 My basket of stocks contains: 
