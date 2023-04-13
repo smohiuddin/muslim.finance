@@ -117,6 +117,6 @@ Please email [me](mailto:info@muslim.finance). Note: I am not a financial adviso
 ---
 Note: Any investment is speculative. 
 <br>
-[Feedback?](mailto:info@muslim.finance) Built by [Safeer](https://www.linkedin.com/in/safeerm){:target="_blank"}
+[Feedback?](mailto:info@muslim.finance)
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
