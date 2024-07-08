@@ -94,6 +94,7 @@ I recommend opening an account with [Saturna](https://www.saturna.com/individual
 
 
 ### Buying a home
+- [Neeyah](https://neeyah.com){:target="_blank"}
 - [UIF](http://www.myuif.com){:target="_blank"}
 - [Guidance](https://www.guidanceresidential.com){:target="_blank"}
 - [Ameen Housing](http://www.ameenhousing.com){:target="_blank"}
