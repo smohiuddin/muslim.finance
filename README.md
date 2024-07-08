@@ -116,9 +116,10 @@ Please email [me](mailto:info@muslim.finance). Note: I am not a financial adviso
 
 
 ---
-Note: Any investment is speculative. 
 *Affiliated with Cordoba Funds, a real estate fund co-managed by the author, Safeer Mohiuddin.
-<br>
+<br/>
+Note: Any investment is speculative. 
+<br/>
 [Feedback?](mailto:info@muslim.finance)
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
