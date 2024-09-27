@@ -110,6 +110,7 @@ I recommend using [CharityVest](http://charityvest.org){:target="_blank"} to str
 - [Zakat.fyi's](https://zakat.fyi){:target="_blank"}
 
 ### Wills and Estate Planning
+- [ShariaWiz](https://www.shariawiz.com)
 - [Islamic Inheritance](https://islamicinheritance.com/free-templates-vault/){:target="_blank"}
 - [MyWassiyah](https://www.mywassiyah.com/){:target="_blank"}
 
