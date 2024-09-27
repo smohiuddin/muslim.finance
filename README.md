@@ -41,9 +41,10 @@ My basket of stocks contains:
 
 Technology stocks have and will continue to perform well in the next few decades. These companies are fast growing due to the digital landscape and have much better profit margins.
 
-Additionally, I recommend:
-- [AMANX](https://www.saturna.com/amana/income-fund#/overview){:target="_blank"} - Amana Income is a halal mutual fund that invests in stable, dividend-paying companies. 
+If you want to buy directly in your brokerage account, I recommend:
+- [XLK](https://www.ssga.com/us/en/intermediary/etfs/the-technology-select-sector-spdr-fund-xlk){:target="_blank"} - Weighted index that includes most tech companies except Amazon and Google (can add individually after). 96% sharia-compliant.
 - [AMAGX](https://www.saturna.com/amana/growth-fund#/overview){:target="_blank"} - Amana Growth invests more aggressively, primarily in tech companies.
+- [AMANX](https://www.saturna.com/amana/income-fund#/overview){:target="_blank"} - Amana Income is a halal mutual fund that invests in stable, dividend-paying companies. 
 
 If you have a Fidelity 401K, see the 401K section on how you can invest in these there.
 
@@ -97,12 +98,16 @@ I recommend opening an account with [Saturna](https://www.saturna.com/individual
 - [Neeyah](https://neeyah.com){:target="_blank"}*
 - [UIF](http://www.myuif.com){:target="_blank"}
 - [Guidance](https://www.guidanceresidential.com){:target="_blank"}
+- [Devon](https://www.devonbank.com){:target="_blank"}
 - [Ameen Housing](http://www.ameenhousing.com){:target="_blank"}
 
-### Charity and Zakat
+### Charity
 
 I recommend using [CharityVest](http://charityvest.org){:target="_blank"} to streamline your donations. CharityVest also makes it easy to donate stocks which allows you to take a deduction on the full market value and avoid capital gain taxes if you were to sell it. 
-- [Zakat Calculator](https://zakat.fyi){:target="_blank"}
+
+### Zakat Calculators
+- [Zoya's](https://app.zoya.finance/zakat){:target="_blank"}
+- [Zakat.fyi's](https://zakat.fyi){:target="_blank"}
 
 ### Wills and Estate Planning
 - [Islamic Inheritance](https://islamicinheritance.com/free-templates-vault/){:target="_blank"}
@@ -112,7 +117,7 @@ I recommend using [CharityVest](http://charityvest.org){:target="_blank"} to str
 - [A Continuous Charity](http://acceducate.org){:target="_blank"}
 
 ### More questions or need advice?
-Please email [me](mailto:info@muslim.finance). Note: I am not a financial advisor. Seek professional consultation as needed. 
+Please email [me](mailto:info@muslim.finance). Note: I am not a financial advisor. Seek professional consultation as needed. Email me to organize a personal finance session in your local community or your group of friends. 
 
 
 ---
