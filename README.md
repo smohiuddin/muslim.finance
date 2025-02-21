@@ -1,6 +1,6 @@
 ### :key: Keys to Financial Peace
 
-1. Decide a budget. Understand where your money is going. Focus on budgeting/saving, THEN inveseting.
+1. Decide a budget. Understand where your money is going. Focus on budgeting/saving, THEN investing.
 2. Save 20% of your salary each month.
 3. Prioritize eliminating debt before investing. 
 4. Contribute to 401K. Most employers match and there are tax advantages. 
